@@ -3,3 +3,5 @@
 
 # Textbook
 - Introduction to the Theory of Computation (third edition) by Michael Sipser
+  * http://book.naver.com/bookdb/book_detail.nhn?bid=6990942
+  * http://book.naver.com/bookdb/book_detail.nhn?bid=7168068
