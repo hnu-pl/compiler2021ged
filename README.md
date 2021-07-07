@@ -4,9 +4,5 @@
 한남대학교 교육대학원 컴파일러 특론 과목 저장소입니다.
 
 # Textbook
-TODO
-<!--
-- 주교재: Introduction to the Theory of Computation (third edition) by Michael Sipser
-  * http://book.naver.com/bookdb/book_detail.nhn?bid=6990942
-  * http://book.naver.com/bookdb/book_detail.nhn?bid=7168068
--->
+- 주교재: [Partial Evaluation and Automatic Program Generation](https://www.itu.dk/people/sestoft/pebook/jonesgomardsestoft-a4.pdf) by Neil D. Jones, Carsten K. Gomard, Peter Sestoft
+- 부교재: [Programming in Haskell (2nd edition)](https://www.cs.nott.ac.uk/~pszgmh/pih.html) by Graham Hutton
